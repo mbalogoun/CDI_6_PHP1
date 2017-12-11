@@ -15,7 +15,7 @@ and open the template in the editor.
         <?php
         echo "Bonjour";
         echo 'Salut !';
-        echo 'Merge ici';
+        echo 'je n en veux pas de ton Merge';
         ?>
     </body>
 </html>
