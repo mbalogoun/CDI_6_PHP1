@@ -15,6 +15,7 @@ and open the template in the editor.
         <?php
         echo "Bonjour";
         echo 'Salut !';
+        echo 'Merge ici';
         ?>
     </body>
 </html>
