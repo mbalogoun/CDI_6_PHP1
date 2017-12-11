@@ -1,3 +1,5 @@
+<?php header('Content-type: text/html; charset=utf-8'); ?>
+
 <!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
@@ -12,6 +14,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "Bonjour";
+        echo 'Salut !';
         ?>
     </body>
 </html>
